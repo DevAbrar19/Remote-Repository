@@ -1,2 +1,2 @@
-int age = 10;
+int age = 100;
 int name = "Abrar";
